@@ -1,0 +1,6 @@
+5 - Como descobrir qual interruptor controla qual lâmpada:
+
+Liguaria o primeiro interruptor e iria até a sala verificar qual lampada acendeu. (exemplo lampada 1, esquerda)
+Depois, desliguaria o primeiro interruptor e liguaria o segundo interruptor e novamente iria verificar qual lampada acendeu.(lampada 2, central) 
+O terceiro interruptor seria o da lampada que não foi acessa.(lampada 3, direita)
+E nao precisaria volvar a sala para saber. 
